@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.rxtx.com.ar"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>RxTx - windows tools</title>
+ <link>http://www.rxtx.com.ar/taxonomy/term/21/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>DropMyRights</title>
+ <link>http://www.rxtx.com.ar/content/dropmyrights</link>
+ <description>&lt;p&gt;This is not a political statement, it&#039;s just a tool for worried sysadmins which had to deal (too often) with that special group of users which are tech savy enough to demand to work as users with administrative privileges but somehow, managed themselves to infects the PC magically (I didn&#039;t do anything!).&lt;/p&gt;
+&lt;p&gt;For that kind of users check this &lt;a href=&quot;http://msdn.microsoft.com/en-us/library/ms972827.aspx&quot;&gt;link&lt;/a&gt; which describes how to use the &lt;a href=&quot;http://download.microsoft.com/download/f/2/e/f2e49491-efde-4bca-9057-adc89c476ed4/dropmyrights.msi&quot;&gt;DropMyRights&lt;/a&gt; tool.&lt;/p&gt;
+</description>
+ <comments>http://www.rxtx.com.ar/content/dropmyrights#comments</comments>
+ <category domain="http://www.rxtx.com.ar/category/tags/windows-tools">windows tools</category>
+ <pubDate>Thu, 18 Sep 2008 22:28:02 +0000</pubDate>
+ <dc:creator>osvaldo</dc:creator>
+ <guid isPermaLink="false">16 at http://www.rxtx.com.ar</guid>
+</item>
+</channel>
+</rss>

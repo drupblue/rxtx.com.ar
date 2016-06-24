@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.rxtx.com.ar"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>RxTx - perl</title>
+ <link>http://www.rxtx.com.ar/taxonomy/term/28/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>automatizando formularios web</title>
+ <link>http://www.rxtx.com.ar/content/automatizando-formularios-web</link>
+ <description>&lt;p&gt;Hace algunos dias atras estuve ayudando a un amigo que necesitaba crear blogs para sus usuarios de manera automatizada. Seleccionamos el lyceum (una variante del wordpress multiuser). &lt;/p&gt;
+&lt;p&gt;Una buena manera para crear los usuarios era con las mismas funciones que el sistema utiliza para esa funcion. Pero se me complicaba el tema de separar el codigo que necesitaba de las dependencias que tenia. Asi que opte por otra variante, googleando un poco, recorde el modulo &lt;a href=&quot;http://search.cpan.org/dist/WWW-Mechanize/&quot;&gt;WWW::Mechanize&lt;/a&gt; y modificando un poco un script que encontre, obtuve este que les presento a continuación.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.rxtx.com.ar/content/automatizando-formularios-web&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://www.rxtx.com.ar/content/automatizando-formularios-web#comments</comments>
+ <category domain="http://www.rxtx.com.ar/category/tags/perl">perl</category>
+ <pubDate>Thu, 29 Jan 2009 16:36:03 +0000</pubDate>
+ <dc:creator>osvaldo</dc:creator>
+ <guid isPermaLink="false">57 at http://www.rxtx.com.ar</guid>
+</item>
+</channel>
+</rss>

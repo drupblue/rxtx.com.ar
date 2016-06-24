@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.rxtx.com.ar"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>RxTx - tv</title>
+ <link>http://www.rxtx.com.ar/taxonomy/term/25/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>Sitio de cliches argumentales</title>
+ <link>http://www.rxtx.com.ar/content/sitio-de-cliches-argumentales</link>
+ <description>&lt;p&gt;Este topic no tiene mucho de tecnico, pero bastante de geeky.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TVTropes.org&lt;/b&gt; es un wiki que lista clichés argumentales de todo tipo, incluyeno películas, libros, videojuegos, etc etc. Cada cliché o &quot;trope&quot; incluye una descripción y una lista de ejemplos del mismo, donde es aplicado, modificado o incluso utilizado de forma opuesta.&lt;/p&gt;
+&lt;p&gt;Extracto algunos ejemplos:&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Taking The Bullet&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.rxtx.com.ar/content/sitio-de-cliches-argumentales&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://www.rxtx.com.ar/content/sitio-de-cliches-argumentales#comments</comments>
+ <category domain="http://www.rxtx.com.ar/category/tags/cine">cine</category>
+ <category domain="http://www.rxtx.com.ar/category/tags/cliches">cliches</category>
+ <category domain="http://www.rxtx.com.ar/category/tags/libros">libros</category>
+ <category domain="http://www.rxtx.com.ar/category/tags/tv">tv</category>
+ <pubDate>Mon, 22 Sep 2008 23:57:03 +0000</pubDate>
+ <dc:creator>cyric</dc:creator>
+ <guid isPermaLink="false">18 at http://www.rxtx.com.ar</guid>
+</item>
+</channel>
+</rss>

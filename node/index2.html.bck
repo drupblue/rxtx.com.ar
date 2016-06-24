@@ -1,0 +1,336 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" dir="ltr">
+  
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+<head>
+    <title>RxTx</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../blogapi/rsd/" />
+
+<link rel="alternate" type="application/rss+xml" title="RxTx RSS" href="../rss/index.xml" />
+
+<link rel="shortcut icon" href="../sites/rxtx.com.ar/themes/nitobe/favicon/index.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/user/user/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/rxtx.com.ar/themes/nitobe/reset/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/rxtx.com.ar/themes/nitobe/text/index.css?1" />
+<link type="text/css" rel="stylesheet" media="screen" href="../sites/rxtx.com.ar/themes/nitobe/layout/index.css?1" />
+<link type="text/css" rel="stylesheet" media="screen" href="../sites/rxtx.com.ar/themes/nitobe/style/index.css?1" />
+<link type="text/css" rel="stylesheet" media="screen" href="../sites/rxtx.com.ar/themes/nitobe/core/index.css?1" />
+<link type="text/css" rel="stylesheet" media="print" href="../sites/rxtx.com.ar/themes/nitobe/print/index.css?1" />
+    <script type="text/javascript" src="../misc/jquery/index.js?1"></script>
+<script type="text/javascript" src="../misc/drupal/index.js?1"></script>
+<script type="text/javascript" src="../sites/rxtx.com.ar/themes/nitobe/script/index.js?1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" } });
+//--><!]]>
+</script>
+    <!--[if IE]>
+      <link type="text/css" rel="stylesheet" media="screen" href="/sites/rxtx.com.ar/themes/nitobe/fix-ie.css" />
+    <![endif]-->
+  </head>
+  <body class="front not-logged-in page-node no-sidebars">
+    <div id="page" class="container_16">
+            <div id="header">
+        <div id="headerTitle" class="grid_12">
+          <h1><a href="/" title=""></a></h1>
+        </div>
+        <div id="search-top" class="grid_4"><form action="http://www.rxtx.com.ar/node?page=2"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Introduzca los términos que quiera buscar." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Buscar"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-41b8772f7307ca518392b9754fbb60c5" value="form-41b8772f7307ca518392b9754fbb60c5"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div>
+                <div class="clear"></div>
+                <div id="headerLinks" class="grid_16">
+                                                      <div class="clear"></div>
+                              </div>
+        <div class="clear"></div>
+        <div id="navphoto" class="grid_16"></div>
+      </div><!-- /#header -->
+      <div class="rule-top">&nbsp;</div>
+
+      <div id="center">
+                                                <div class="clear-block">
+          <div id="node-54" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../modulos-de-drupal-para-redes-sociales/" rel="bookmark" title="Permanent Link to modulos de drupal para redes sociales">modulos de drupal para redes sociales</a></h2>
+    <div class="timestamp grid_4 omega">20 Ene 2009</div>
+  </div>
+  <div class="content">
+        <p><b>CCK / Views / imagecache / pathauto<br /></b><br />Para crear contenido no hay mejor combinación que esta. CCK le permite crear nuevos tipos de contenido y declararles los campos que necesitamos individualmente.<br />Las Views nos permiten mostrar lo que necesitemos de cada tipo de contenido, en la forma en que necesitemos.<br />Imagecache se encarga de realizar los ajustes necesitarios en las imagenes de manera que todas se muestren de la misma manera sin preocuparnos por hacerle ningun ajuste antes del momento de subirlas. </p>
+            <span class="readmore"><a href="../modulos-de-drupal-para-redes-sociales/" title="Continue reading modulos de drupal para redes sociales.">Continue reading...</a></span>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../modulos-de-drupal-para-redes-sociales/#comments" title="Read comments or comment on modulos de drupal para redes sociales">4 Comments</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-53" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/tiendas-en-drupal/" rel="bookmark" title="Permanent Link to tiendas en drupal">tiendas en drupal</a></h2>
+    <div class="timestamp grid_4 omega">20 Ene 2009</div>
+  </div>
+  <div class="content">
+        <p>Ejemplos de tiendas hechas en drupal. A tener en cuenta el diseño de los temas que emplean.</p>
+<ul>
+<li><a href="http://fleurville.com/shop">Fleurville</a></li>
+<li><a href="http://www.hjlynn.com/store">H.Jlynn</a></li>
+<li><a href="http://ohmint.com/products">oh mint!</a></li>
+<li><a href="http://www.nutriprima.com/products">NutriPrima</a></li>
+</ul>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+              Tags: <ul class="links inline"><li class="taxonomy_term_8 first last"><a href="../category/tags/drupal/" rel="tag" title="">drupal</a></li></ul>         |  
+                                  <a href="../content/tiendas-en-drupal/#comments" title="Read comments or comment on tiendas en drupal">1 Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-52" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/test-credit-card-account-numbers/" rel="bookmark" title="Permanent Link to test credit card account numbers">test credit card account numbers</a></h2>
+    <div class="timestamp grid_4 omega">16 Dic 2008</div>
+  </div>
+  <div class="content">
+        <p>American Express: 3111 1111 1111 117<br />
+Visa: 4111 1111 1111 1111<br />
+MasterCard: 5111 1111 1111 1118<br />
+Discover: 6111 1111 1111 1116</p>
+<p>Credit Card Type</p>
+<p>Credit Card Number</p>
+            <span class="readmore"><a href="../content/test-credit-card-account-numbers/" title="Continue reading test credit card account numbers.">Continue reading...</a></span>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../comment/reply/52/#comment-form" title="Comment on test credit card account numbers">Add a Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-51" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/12-css-frameworks/" rel="bookmark" title="Permanent Link to 12 CSS Frameworks">12 CSS Frameworks</a></h2>
+    <div class="timestamp grid_4 omega">06 Dic 2008</div>
+  </div>
+  <div class="content">
+        <p>12 of the best CSS Frameworks<br />
+1.<a href="http://elements.projectdesigns.org/">Elements CSS Frameworks</a> (Source: <a href="http://projectdesigns.org/">Project Designs</a>)</p>
+            <span class="readmore"><a href="../content/12-css-frameworks/" title="Continue reading 12 CSS Frameworks.">Continue reading...</a></span>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../comment/reply/51/#comment-form" title="Comment on 12 CSS Frameworks">Add a Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-50" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/imagenes-gratis-en-internet/" rel="bookmark" title="Permanent Link to imagenes gratis en internet">imagenes gratis en internet</a></h2>
+    <div class="timestamp grid_4 omega">01 Dic 2008</div>
+  </div>
+  <div class="content">
+        <ul>
+<li><a href="http://www.credit-card-logos.com/">logos de las tarjetas de credito</a></li>
+<li><a href="http://www.freephotobank.org/main.php">FreePhotoBank</a></li>
+<li><a href="http://www.imageafter.com/index.php">ImageAfter</a></li>
+<li><a href="http://imagebase.davidniblack.com/main.php">imagebase</a></li>
+<li><a href="http://www.freeimages.co.uk/">freeimages</a></li>
+<li><a href="http://www.unprofound.com/">unprofound</a></li>
+</ul>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../comment/reply/50/#comment-form" title="Comment on imagenes gratis en internet">Add a Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-49" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/css-resources/" rel="bookmark" title="Permanent Link to css resources">css resources</a></h2>
+    <div class="timestamp grid_4 omega">01 Dic 2008</div>
+  </div>
+  <div class="content">
+        <ul>
+<li><a href="http://www.dinpattern.com/">Background Patterns</a></li>
+<li><a href="http://cssmenumaker.com/">Menu Maker</a></li>
+<li><a href="http://css.maxdesign.com.au/index.htm">CSS Tutorials</a> (great ones!)</li>
+<li>Free CSS Navigation Menu Designs (<a href="http://www.exploding-boy.com/2005/12/15/free-css-navigation-designs/">here</a>, <a href="http://www.exploding-boy.com/2005/12/21/more-free-css-navigation-menu-designs/">here</a> and <a href="http://www.exploding-boy.com/2005/12/29/14-free-vertical-css-menus/">here</a>)</li>
+</ul>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../comment/reply/49/#comment-form" title="Comment on css resources">Add a Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-48" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/wishful-thinking/" rel="bookmark" title="Permanent Link to Wishful Thinking">Wishful Thinking</a></h2>
+    <div class="timestamp grid_4 omega">01 Dic 2008</div>
+  </div>
+  <div class="content">
+        <p>An old man lived alone in a small village . He wanted to spade his potato garden, but it was very hard work. His only son, who would have helped him, was in prison. The old man wrote a letter to his son and mentioned his situation:</p>
+<p>Dear Son,<br />
+"I am feeling pretty bad because it looks like I won't be able to plant my potato garden this year. I hate to miss doing the garden, because your mother always loved planting time. I'm just getting too old to be digging up a garden plot. If you were here, all my troubles would be over.</p>
+            <span class="readmore"><a href="../content/wishful-thinking/" title="Continue reading Wishful Thinking.">Continue reading...</a></span>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../comment/reply/48/#comment-form" title="Comment on Wishful Thinking">Add a Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-47" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/modulos-de-drupal-para-slideshow/" rel="bookmark" title="Permanent Link to modulos de drupal para slideshow">modulos de drupal para slideshow</a></h2>
+    <div class="timestamp grid_4 omega">28 Nov 2008</div>
+  </div>
+  <div class="content">
+        <p>Existen varios modulos para armar un slideshow en Drupal.</p>
+<ul>
+<li><a href="http://drupal.org/project/couloir_slideshow">Couloir Slideshow</a>. Un buen sustituto para un slideshow en flash.
+</li>
+<li><a href="http://drupal.org/project/slideshowbox">Slideshow-Box</a>.
+</li>
+<li><a href="http://drupal.org/project/jquery_slideshow">Jquery Slideshow</a>
+</li>
+<li><a href="http://drupal.org/project/slideshow_creator">Slideshow Creator</a>
+</li>
+<li><a href="http://drupal.org/project/views_slideshow">Views Slideshow</a>
+</li>
+<li><a href="http://drupal.org/project/slideshowcs">Slide Show CS</a>.<br />
+</li></ul>            <span class="readmore"><a href="../content/modulos-de-drupal-para-slideshow/" title="Continue reading modulos de drupal para slideshow.">Continue reading...</a></span>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../comment/reply/47/#comment-form" title="Comment on modulos de drupal para slideshow">Add a Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-46" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/visualizacion-del-trafico-de-red/" rel="bookmark" title="Permanent Link to visualizacion del trafico de red">visualizacion del trafico de red</a></h2>
+    <div class="timestamp grid_4 omega">28 Nov 2008</div>
+  </div>
+  <div class="content">
+        <p>Estas dos herramientas permiten visualizar el tráfico que esta teniendo lugar en la red. En el primer caso, más bien referido al tráfico del servidor web, <a href="http://www.fudgie.org/">glTail.rb</a> se define como una herramienta de realtime logfile visualization.Por otro lado, <a href="http://research.wand.net.nz/software/visualisation.php">BSOD</a> si nos permite ver, en tiempo real, el tráfico que que esta circulando por la red.</p>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../comment/reply/46/#comment-form" title="Comment on visualizacion del trafico de red">Add a Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-45" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/design-la-carte/" rel="bookmark" title="Permanent Link to design a la carte">design a la carte</a></h2>
+    <div class="timestamp grid_4 omega">23 Nov 2008</div>
+  </div>
+  <div class="content">
+        <p>Recién descubri theserved (vía <a href="http://css-tricks.com/links-of-interest-55/">css-tricks</a>)
+<ul>
+<li><a href="http://www.fashionserved.com/">Fashion</a></li>
+<li><a href="http://www.industrialdesignserved.com/">Industrial Design</a></li>
+<li><a href="http://www.motionserved.com/">Motion Graphics</a></li>
+<li><a href="http://www.photographyserved.com/">Photography</a></li>
+<li><a href="http://www.typographyserved.com/">Typography</a></li>
+</ul>
+</p>      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../comment/reply/45/#comment-form" title="Comment on design a la carte">Add a Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div class="item-list"><ul class="pager"><li class="pager-first first"><a href="index.html" title="Ir a la primera página" class="active">« primera</a></li>
+<li class="pager-previous"><a href="index1.html?page=1" title="Ir a página anterior" class="active">‹ anterior</a></li>
+<li class="pager-item"><a href="index.html" title="Ir a la página 1" class="active">1</a></li>
+<li class="pager-item"><a href="index1.html?page=1" title="Ir a la página 2" class="active">2</a></li>
+<li class="pager-current">3</li>
+<li class="pager-item"><a href="index3.html?page=3" title="Ir a la página 4" class="active">4</a></li>
+<li class="pager-item"><a href="index4.html?page=4" title="Ir a la página 5" class="active">5</a></li>
+<li class="pager-item"><a href="index5.html?page=5" title="Ir a la página 6" class="active">6</a></li>
+<li class="pager-item"><a href="index6.html?page=6" title="Ir a la página 7" class="active">7</a></li>
+<li class="pager-item"><a href="index7.html?page=7" title="Ir a la página 8" class="active">8</a></li>
+<li class="pager-next"><a href="index3.html?page=3" title="Ir a página siguiente" class="active">siguiente ›</a></li>
+<li class="pager-last last"><a href="index7.html?page=7" title="Ir a la última página" class="active">última »</a></li>
+</ul></div>        </div>
+      </div> <!-- /#center -->
+            <div class="clear">&nbsp;</div>
+            <div class="rule">&nbsp;</div>
+      <div id="footer">
+              </div>
+    </div> <!-- /container -->
+  <script type="text/javascript" src="../sites/all/modules/google_analytics/googleanalytics/index.js?1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-5155520-2");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    var names = [ "http://www.rxtx.com.ar/sites/rxtx.com.ar/themes/nitobe/headers/Wet_Hibiscus_Flower_Macro.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Martian_Surface/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Earth_from_ISS/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Flower_Pattern/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Leek_Bloom/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Contemplation/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Onions_and_Scale/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Tennyson/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Blue_Water_Drops/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/La_Rambla/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Rolling_Hills/index.jpg", "http://www.rxtx.com.ar/sites/rxtx.com.ar/themes/nitobe/headers/Metal_Wall.jpg" ];
+    $('#navphoto').css('background-image', 'url(' + names[Math.floor(Math.random() * names.length)] + ')');
+  });
+</script>  </body>
+
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+</html>

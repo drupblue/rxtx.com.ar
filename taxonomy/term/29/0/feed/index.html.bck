@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.rxtx.com.ar"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>RxTx - otrs sysadmin</title>
+ <link>http://www.rxtx.com.ar/taxonomy/term/29/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>resetear la contraseña del administrador del otrs</title>
+ <link>http://www.rxtx.com.ar/content/resetear-la-contrase%C3%B1-del-administrador-del-otrs</link>
+ <description>&lt;p&gt;Si tenemos instalado el otrs el usuario administrador es &quot;root@localhost&quot;. Si por alguna razón no tenemos su contraseña, hay dos opciones. La primera es solicitar que nos envie una contraseña nueva (la última opción en la página inicial).&lt;/p&gt;
+&lt;p&gt;Si no sabemos o tenemos acceso a la cuenta de correo donde esta siendo enviado ese correo, tenemos la alternativa de cambiarlo directamente en la base de datos.&lt;/p&gt;
+&lt;p&gt;Para esto nos logueamos en el servidor y ejecutamos estos comandos:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre class=&quot;PROGRAMLISTING&quot;&gt;shell:~ $ mysql -u root -p otrs&lt;/pre&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;a href=&quot;http://www.rxtx.com.ar/content/resetear-la-contrase%C3%B1-del-administrador-del-otrs&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://www.rxtx.com.ar/content/resetear-la-contrase%C3%B1-del-administrador-del-otrs#comments</comments>
+ <category domain="http://www.rxtx.com.ar/category/tags/otrs-sysadmin">otrs sysadmin</category>
+ <pubDate>Tue, 17 Feb 2009 01:40:04 +0000</pubDate>
+ <dc:creator>osvaldo</dc:creator>
+ <guid isPermaLink="false">62 at http://www.rxtx.com.ar</guid>
+</item>
+</channel>
+</rss>

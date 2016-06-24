@@ -1,0 +1,228 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" dir="ltr">
+  
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+<head>
+    <title>modulos de drupal para redes sociales | RxTx</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../sites/rxtx.com.ar/themes/nitobe/favicon/index.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/user/user/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/comment/comment/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/rxtx.com.ar/themes/nitobe/reset/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/rxtx.com.ar/themes/nitobe/text/index.css?1" />
+<link type="text/css" rel="stylesheet" media="screen" href="../sites/rxtx.com.ar/themes/nitobe/layout/index.css?1" />
+<link type="text/css" rel="stylesheet" media="screen" href="../sites/rxtx.com.ar/themes/nitobe/style/index.css?1" />
+<link type="text/css" rel="stylesheet" media="screen" href="../sites/rxtx.com.ar/themes/nitobe/core/index.css?1" />
+<link type="text/css" rel="stylesheet" media="print" href="../sites/rxtx.com.ar/themes/nitobe/print/index.css?1" />
+    <script type="text/javascript" src="../misc/jquery/index.js?1"></script>
+<script type="text/javascript" src="../misc/drupal/index.js?1"></script>
+<script type="text/javascript" src="../modules/comment/comment/index.js?1"></script>
+<script type="text/javascript" src="../misc/textarea/index.js?1"></script>
+<script type="text/javascript" src="../sites/rxtx.com.ar/themes/nitobe/script/index.js?1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" } });
+//--><!]]>
+</script>
+    <!--[if IE]>
+      <link type="text/css" rel="stylesheet" media="screen" href="/sites/rxtx.com.ar/themes/nitobe/fix-ie.css" />
+    <![endif]-->
+  </head>
+  <body class="not-front not-logged-in page-node node-type-story no-sidebars">
+    <div id="page" class="container_16">
+            <div id="header">
+        <div id="headerTitle" class="grid_12">
+          <h1><a href="/" title=""></a></h1>
+        </div>
+        <div id="search-top" class="grid_4"><form action="http://www.rxtx.com.ar/modulos-de-drupal-para-redes-sociales"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Introduzca los términos que quiera buscar." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Buscar"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-05bb18782a6a3f106f7276b27850483c" value="form-05bb18782a6a3f106f7276b27850483c"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div>
+                <div class="clear"></div>
+                <div id="headerLinks" class="grid_16">
+                                                      <div class="clear"></div>
+                              </div>
+        <div class="clear"></div>
+        <div id="navphoto" class="grid_16"></div>
+      </div><!-- /#header -->
+      <div class="rule-top">&nbsp;</div>
+
+      <div id="center">
+        <div class="breadcrumb"><a href="/">Inicio</a></div>                  <div class="headline grid_12 alpha">
+            <h2 class="grid_8 alpha">modulos de drupal para redes sociales</h2>                          <div class="timestamp grid_4 omega">20 Ene 2009</div>
+                      </div>
+          <div class="clear"></div>
+                                        <div class="clear-block">
+          <div id="node-54" class="node  node-story ">
+
+  <div class="content">
+        <p><b>CCK / Views / imagecache / pathauto<br /></b><br />Para crear contenido no hay mejor combinación que esta. CCK le permite crear nuevos tipos de contenido y declararles los campos que necesitamos individualmente.<br />Las Views nos permiten mostrar lo que necesitemos de cada tipo de contenido, en la forma en que necesitemos.<br />Imagecache se encarga de realizar los ajustes necesitarios en las imagenes de manera que todas se muestren de la misma manera sin preocuparnos por hacerle ningun ajuste antes del momento de subirlas. <br />Pathauto le ayuda a crear enlaces (URLs) faciles de recordar, para nosotros y faciles de encontrar, para los navegadores.</p>
+<p>Para mas información:<br /><a target="_blank" href="http://drupal.org/project/cck">módulo cck</a><br /><a target="_blank" href="http://drupal.org/project/views">módulo views</a><br /><a target="_blank" href="http://drupal.org/project/imagecache">módulo imagecache</a><br /><a target="_blank" href="http://drupal.org/project/pathauto">módulo pathauto</a></p>
+<p><b>Menú Admin</b></p>
+<p>Aunque no es un módulo para redes sociales como tal, resulta imprescible a la hora de trabajar con Drupal.</p>
+<p>Más información:<br /><a href="http://drupal.org/project/admin_menu">módulo admin</a></p>
+<p><b>Share / Service Links</b></p>
+<p>Tiene un sitio con buen contenido, el sitoi esta indexado en Google, esta terminado el trabajo? Para nada, aún hay muchas cosas que quedan por hacer. Estos dos módulos pueden trabajar por separado (al menos la última versión de share) pero los mejores resultados los obtiene cuando los combina. Estos módulos le van a permitir a sus visitantes, compartir y marcar como favoritos los contenidos en su sitio a través de sitios como Facebook, MySpace, del.icious, digg, Google y Yahoo! entre otros.<br />Haga uso de las redes sociales y facilite a sus lectores propagar la voz sobre su sitio.</p>
+<p>Más información:<br /><a target="_blank" href="http://drupal.org/project/share">módulo share</a> y <a target="_blank" href="http://drupal.org/project/service_links">módulo service links</a>.</p>
+<p><b><br />Buddylist</b></p>
+<p>Las listas de amigos son componente esencial en cualquier comunidad o red social al permitirle a sus usuarios conectarse y crear conexiones y redes de amigos. Además de este módulo, Drupal ofrece varias opciones a la hora de crear una lista de amigos.</p>
+<p>Más información:<br /><a href="http://drupalsn.com/node/3246">módulos para listas de amigos</a></p>
+<p><b><br />Logintoboggan</b></p>
+<p>Este módulo le permite a los usuarios seleccionar la contraseña en el momento de crear la cuenta e iniciar sesión utilizando su dirección de email y nombre de la cuenta. También le permite iniciar sesión inmediatamente de registrarse y que les sea asignado un permiso de "pre-validación" hasta que hayan valido su dirección de email.</p>
+<p>Más información:<br /><a href="http://drupal.org/project/Logintoboggan">Logintoboggan</a></p>
+<p><b>Comment y comment_modify</b></p>
+<p>Este módulo envía notificaciones por email a los usuarios cuando alguien realiza un comentario en un contenido sobre el cual ellos hayan comentado previamente. Esta es una excelente forma de lograr que los usuarios sigan regresando a su sitio.<br />Las notificaciones son opciones, el usuario puede seleccionar si recibe o no las mismas.<br />El único punto en contra es que hace falta modificar una línea del módulo comment, pero el esfuerzo vale la pena!</p>
+<p>Más información:<br /><a href="http://drupal.org/project/comment_notify">módulo comment_notify</a></p>
+<p><b>VotingAPI con fivestar o extra_voting_forms</b></p>
+<p>Cuando las personas votan, se involucran de alguna manera. Los modulos fivestar y extra_voting_forms animan a los usuarios a votar precisamente. Ambos módulos requieren del módulo votingAPI.</p>
+<p>Más información:<br /><a href="http://drupal.org/project/votingapi">módulo votingAPI</a><br /><a href="http://drupal.org/project/fivestar">módulo fivestar</a><br /><a href="http://drupal.org/project/extra_voting_forms">módulo extra_voting_forms</a><br /><a href="http://drupal.org/node/68851">listado de modulos que interactuan con votingAPI</a></p>
+<p><b><br />Invite y Drupal Contact List Importer</b></p>
+<p>Permita a su red social crecer por si sola al permitirle invitar amigos y familiares a unirse a su sitio. Adicione el dmoulo Drupal Contact List Importer y permitale a sus usuarios importar contactos desde sus cuentas de Gmail, Yahoo, AOL, MySpace y MSN Messgner.</p>
+<p>Más información:<br /><a href="http://drupal.org/project/invite"><br />
+módulo invite</a><br /><a href="http://drupal.org/project/dcl_importer"><br />
+módulo drupal contact list importer</a></p>
+<p>
+<b>Perfiles de usuario con profile_setup</b><br />Este modulo guia a los usuarios a través de un asistente de perfil donde se les invita a que suban una imagen para su perfil asi como completar otros campos (proporcionados por el modulo incluido en el drupal de profile)</p>
+<p>Más información:<br /><a href="http://drupal.org/project/profile_setup"></a></p>
+<p>módulo profile_setup<br /><a href="http://drupal.org/project/content_profile"></a></p>
+<p>módulo contentprofile (proporciona funcionalidad similar)</p>
+<p><b>Estados al estilo de Facebook</b></p>
+<p>Lo que es bueno para Facebook, es bueno para cualquier red social!<br />Para aquellos que nunca han utilizado Facebook o se han fijado en los estados, este módulo le permite a los usuarios teclear un estado actual sobre lo que se encuentran haciendo, es una agradable forma de mantener la imagen de su sitio fresca.</p>
+<p>Más información:<br /><a href="http://drupal.org/project/facebook_status"></a></p>
+<p>módulo facebook_status</p>
+<p><b>unique_avatar</b><br />Este es un pequeño módulo que evita que la imagen del perfil de los usuarios sea almacenada en el cache del navegador una vez que los mismos la hayan cambiado. Lo logra evitando que la cache del navegador le asigne un nombre único a cada imagen de perfil.</p>
+<p>Más información:<br /><a href="http://drupal.org/project/unique_avatar"></a></p>
+<p>módulo unique_avatar</p>
+<p><b>usernode</b></p>
+<p>Si usted utiliza Drupal 5, este modulo es el puente entre los datos de los usuarios (relacionados con los módulos de user y profile) y el módulo views. Esto le permite entonces crear páginas que muestren dicha información de manera combinada.</p>
+<p>Más información:<br /><a href="http://drupal.org/project/usernode"></a></p>
+<p>módulo usernod<b>e</b><b></b></p>
+<p>nodeprofile, bio  (Drupal 5) y contentprofile (Drupal 6)</p>
+<p>Estos módulos le permiten construir perfiles de usuario como tipos de contenido o nodos lo que le permite la posibilidad de utilizar los poderosos módulos basados en CCK a la hora de crear dichos perfiles. El módulo contentprofile es el sucesor en Drupal 6 de los modulos nodeprofile y Bio.<br />Estos módulos ofrecen una alternativa más flexible que el módulo de perfil de usuario incluido en el Drupal.</p>
+<p>Más información:</p>
+<p><a href="http://drupal.org/project/nodeprofile">módulo nodeprofile</a><br /><a href="http://drupal.org/project/bio"></a></p>
+<p>módulo bio</p>
+<p><a href="http://drupal.org/project/content_profile">módulo contentprofile</a></p>
+<p>
+Tomado de <a href="http://drupalsn.com/learn-drupal/drupal-tutorials/essential-drupal-social-networking-modules">este articulo en DrupalSN</a>.</p>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                </div>
+
+      </div>
+
+</div> <!-- node-story -->
+<div id="comments"><h2 class="comments">Comentarios</h2><a id="comment-158"></a>
+<div class="comment comment-published odd">
+  <div class="content">
+    <p>Genial la informacion buscaba un modulo que haga algo en especial y me encontre con varios que no tenia pensado aplicar.<br />
+Muy buena info</p>
+  </div>
+  <div class="comment-meta">
+    <span>
+      <strong>Brian</strong> | Ene 16th, 2013 at 3:29 pm          </span>
+  </div>
+</div>
+<a id="comment-149"></a>
+<div class="comment comment-published even">
+  <div class="content">
+    <p><em><strong>Excelente! Me sirve se por donde arrancar ahora jajaja  Saludos!</strong></em></p>
+  </div>
+  <div class="comment-meta">
+    <span>
+      <strong>Nico</strong> | Dic 2nd, 2011 at 10:09 pm          </span>
+  </div>
+</div>
+<a id="comment-148"></a>
+<div class="comment comment-published odd">
+  <div class="content">
+    <p>Esto esta perfecto..., sobre todo para tener una idea de lo que hace cada módulo partiendo de un tipo de web</p>
+  </div>
+  <div class="comment-meta">
+    <span>
+      <strong>ABD</strong> | Nov 29th, 2010 at 6:51 pm          </span>
+  </div>
+</div>
+<a id="comment-146"></a>
+<div class="comment comment-published even">
+  <div class="content">
+    <p>De mucha ayuda!</p>
+  </div>
+  <div class="comment-meta">
+    <span>
+      <strong>rafa</strong> | Jul 9th, 2010 at 5:25 am          </span>
+  </div>
+</div>
+<div class="box">
+
+  <h2>Enviar un comentario nuevo</h2>
+
+  <div class="content"><form action="http://www.rxtx.com.ar/comment/reply/54"  accept-charset="UTF-8" method="post" id="comment-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Su nombre: <span class="form-required" title="Este campo es obligatorio.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="30" value="Anonymous" class="form-text required" />
+</div>
+<div class="form-item" id="edit-mail-wrapper">
+ <label for="edit-mail">E-mail: <span class="form-required" title="Este campo es obligatorio.">*</span></label>
+ <input type="text" maxlength="64" name="mail" id="edit-mail" size="30" value="" class="form-text required" />
+ <div class="description">El contenido de este campo se mantiene privado y no se mostrará públicamente.</div>
+</div>
+<div class="form-item" id="edit-homepage-wrapper">
+ <label for="edit-homepage">Página principal: </label>
+ <input type="text" maxlength="255" name="homepage" id="edit-homepage" size="30" value="" class="form-text" />
+</div>
+<div class="form-item" id="edit-comment-wrapper">
+ <label for="edit-comment">Comentario: <span class="form-required" title="Este campo es obligatorio.">*</span></label>
+ <textarea cols="60" rows="15" name="comment" id="edit-comment"  class="form-textarea resizable required"></textarea>
+</div>
+<ul class="tips"><li>Las direcciones de las páginas web y las de correo se convierten en enlaces automáticamente.</li><li>Etiquetas HTML permitidas: &lt;a&gt; &lt;em&gt; &lt;strong&gt; &lt;cite&gt; &lt;code&gt; &lt;ul&gt; &lt;ol&gt; &lt;li&gt; &lt;dl&gt; &lt;dt&gt; &lt;dd&gt;</li><li>Saltos automáticos de líneas y de párrafos.</li></ul><p><a href="../filter/tips/">Más información sobre opciones de formato</a></p><input type="hidden" name="form_build_id" id="form-2a1d838784dfff7d40742bdbf4f54f2a" value="form-2a1d838784dfff7d40742bdbf4f54f2a"  />
+<input type="hidden" name="form_id" id="edit-comment-form" value="comment_form"  />
+<input type="submit" name="op" id="edit-submit" value="Guardar"  class="form-submit" />
+<input type="submit" name="op" id="edit-preview" value="Previsualizar"  class="form-submit" />
+
+</div></form>
+</div>
+</div>
+</div>        </div>
+      </div> <!-- /#center -->
+            <div class="clear">&nbsp;</div>
+            <div class="rule">&nbsp;</div>
+      <div id="footer">
+              </div>
+    </div> <!-- /container -->
+  <script type="text/javascript" src="../sites/all/modules/google_analytics/googleanalytics/index.js?1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-5155520-2");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    var names = [ "http://www.rxtx.com.ar/sites/rxtx.com.ar/themes/nitobe/headers/Wet_Hibiscus_Flower_Macro.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Martian_Surface/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Earth_from_ISS/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Flower_Pattern/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Leek_Bloom/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Contemplation/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Onions_and_Scale/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Tennyson/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Blue_Water_Drops/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/La_Rambla/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Rolling_Hills/index.jpg", "http://www.rxtx.com.ar/sites/rxtx.com.ar/themes/nitobe/headers/Metal_Wall.jpg" ];
+    $('#navphoto').css('background-image', 'url(' + names[Math.floor(Math.random() * names.length)] + ')');
+  });
+</script>  </body>
+
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+</html>

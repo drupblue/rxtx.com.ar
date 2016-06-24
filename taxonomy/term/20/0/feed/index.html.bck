@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.rxtx.com.ar"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>RxTx - xen lvm</title>
+ <link>http://www.rxtx.com.ar/taxonomy/term/20/0</link>
+ <description></description>
+ <language>es</language>
+<item>
+ <title>adicionando un nuevo disco a domU</title>
+ <link>http://www.rxtx.com.ar/content/adicionando-un-nuevo-disco-domu</link>
+ <description>&lt;p&gt;Hola:&lt;br /&gt;Instalamos un domU pero al paso del tiempo, descubrimos que necesitamos mas espacio.&lt;br /&gt;Una variante seria utilizar el lvm y aumentarle el espacio al disco.&lt;br /&gt;Otra menos elegante seria adicionarle un segundo disco.&lt;/p&gt;
+&lt;p&gt;La menos elegante consta de tres pasos:&lt;/p&gt;
+&lt;p&gt;1. lvcreate disk -ndom2b -L8G&lt;/p&gt;
+&lt;p&gt;Ahi creo un disco /dev/disk/dom2b de 8GB de capacidad. Lo compruebo si quiero con el comando:&lt;/p&gt;
+&lt;p&gt;lvdisplay /dev/disk/dom2b&lt;/p&gt;
+&lt;p&gt;2. Luego, en el fichero de configuracion del domU cambio la linea&lt;/p&gt;
+&lt;p&gt;disk = [ &quot;phy:/dev/disk/dom2a,xvda,w&quot; ]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.rxtx.com.ar/content/adicionando-un-nuevo-disco-domu&quot; target=&quot;_blank&quot;&gt;leer más&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://www.rxtx.com.ar/content/adicionando-un-nuevo-disco-domu#comments</comments>
+ <category domain="http://www.rxtx.com.ar/category/tags/xen-lvm">xen lvm</category>
+ <pubDate>Mon, 15 Sep 2008 16:59:56 +0000</pubDate>
+ <dc:creator>osvaldo</dc:creator>
+ <guid isPermaLink="false">15 at http://www.rxtx.com.ar</guid>
+</item>
+</channel>
+</rss>

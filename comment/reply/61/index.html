@@ -1,0 +1,192 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" dir="ltr">
+  
+<!--  --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- / -->
+<head>
+    <title>Reply to comment | RxTx</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../../../sites/rxtx.com.ar/themes/nitobe/favicon/index.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="../../../modules/node/node/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../../../modules/system/defaults/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../../../modules/system/system/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../../../modules/system/system-menus/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../../../modules/user/user/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../../../sites/rxtx.com.ar/themes/nitobe/reset/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../../../sites/rxtx.com.ar/themes/nitobe/text/index.css?1" />
+<link type="text/css" rel="stylesheet" media="screen" href="../../../sites/rxtx.com.ar/themes/nitobe/layout/index.css?1" />
+<link type="text/css" rel="stylesheet" media="screen" href="../../../sites/rxtx.com.ar/themes/nitobe/style/index.css?1" />
+<link type="text/css" rel="stylesheet" media="screen" href="../../../sites/rxtx.com.ar/themes/nitobe/core/index.css?1" />
+<link type="text/css" rel="stylesheet" media="print" href="../../../sites/rxtx.com.ar/themes/nitobe/print/index.css?1" />
+    <script type="text/javascript" src="../../../misc/jquery/index.js?1"></script>
+<script type="text/javascript" src="../../../misc/drupal/index.js?1"></script>
+<script type="text/javascript" src="../../../modules/comment/comment/index.js?1"></script>
+<script type="text/javascript" src="../../../misc/textarea/index.js?1"></script>
+<script type="text/javascript" src="../../../sites/rxtx.com.ar/themes/nitobe/script/index.js?1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" } });
+//--><!]]>
+</script>
+    <!--[if IE]>
+      <link type="text/css" rel="stylesheet" media="screen" href="/sites/rxtx.com.ar/themes/nitobe/fix-ie.css" />
+    <![endif]-->
+  </head>
+  <body class="not-front not-logged-in page-comment no-sidebars">
+    <div id="page" class="container_16">
+            <div id="header">
+        <div id="headerTitle" class="grid_12">
+          <h1><a href="../..//" title=""></a></h1>
+        </div>
+        <div id="search-top" class="grid_4"><form action="http://www.rxtx.com.ar/comment/reply/61"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Introduzca los términos que quiera buscar." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Buscar"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-ae20976b628529155567456b23006c89" value="form-ae20976b628529155567456b23006c89"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div>
+                <div class="clear"></div>
+                <div id="headerLinks" class="grid_16">
+                                                      <div class="clear"></div>
+                              </div>
+        <div class="clear"></div>
+        <div id="navphoto" class="grid_16"></div>
+      </div><!-- /#header -->
+      <div class="rule-top">&nbsp;</div>
+
+      <div id="center">
+        <div class="breadcrumb"><a href="../..//">Inicio</a> › <a href="../../../content/drupal-hostslave-installation/">drupal hostslave installation</a></div>                  <div class="headline grid_12 alpha">
+            <h2 class="grid_8 alpha">Reply to comment</h2>                      </div>
+          <div class="clear"></div>
+                                        <div class="clear-block">
+          <div id="node-61" class="node  node-story ">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../../../content/drupal-hostslave-installation/" rel="bookmark" title="Permanent Link to drupal hostslave installation">drupal hostslave installation</a></h2>
+    <div class="timestamp grid_4 omega">10 Feb 2009</div>
+  </div>
+  <div class="content">
+        <p>Installing HostSlave</p>
+<p>I will be installing the hostslave profile in a drupal 6 codebase. On the same machine where i installed the hostmaster profile. I will be using the <strong>/var/www/hostslave</strong> directory.</p>
+<p>First I added the hostname to the <strong>/etc/hosts</strong> file.</p>
+<blockquote><p>127.0.0.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; localhost localhost.localdomain aegir&nbsp; hostslave</p></blockquote>
+<p>Then, created the virtualhost apache configuration file:</p>
+<p><strong>/etc/apache2/sites-available/hostslave</strong></p>
+<blockquote><p>&lt;VirtualHost *&gt;<br />RewriteEngine On<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServerAdmin osvaldo@localhost.localdomain<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServerName hostslave.localhost<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServerAlias hostslave</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DocumentRoot /var/www/hostslave/drupal</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CustomLog /var/log/apache2/hostslave-access.log combined<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ErrorLog /var/log/apache2/hostslave-error.log<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LogLevel warn<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServerSignature On<br />&lt;/VirtualHost&gt;<br />&lt;Directory /var/www/hostslave&gt;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AllowOverride All<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Options Indexes FollowSymLinks MultiViews<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Order allow,deny<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Allow from all<br />&lt;/Directory&gt;</p></blockquote>
+<p>
+Then enable the new virtualhost configuration and apply the changes.</p>
+<blockquote><p><strong>a2ensite hostslave<br />apache2ctl restart</strong></p></blockquote>
+<p>Then, create the directory and download the drupal source code from cvs (could be also from the tgz file)</p>
+<blockquote><p>sudo su -<br />rm -fr /var/www/hostslave/drupal<br />cd /var/www/hostslave<br />chown -R hostmaster /var/www/hostslave/drupal<br />cvs -z6 -d:pserver:anonymous:anonymous@cvs.drupal.org:/cvs/drupal co -r DRUPAL-6 drupal</p></blockquote>
+<p>Download and install the hostslave profile.</p>
+<blockquote><p>cd /var/www/hostslave/drupal<br />wget <a href="http://ftp.drupal.org/files/projects/hostslave-6.x-0.1.tar.gz" title="http://ftp.drupal.org/files/projects/hostslave-6.x-0.1.tar.gz">http://ftp.drupal.org/files/projects/hostslave-6.x-0.1.tar.gz</a><br />tar zxf hostslave-6.x-0.1.tar.gz<br />mv hostslave profiles/<br />rm&nbsp; hostslave-6.x-0.1.tar.gz</p></blockquote>
+<p>The hostmaster package included all the modules, this one not, so let's get them one by one.</p>
+<blockquote><p>cat &gt; urls &lt;&lt; EOF<br /><a href="http://ftp.drupal.org/files/projects/cvs_deploy-6.x-1.0.tar.gz" title="http://ftp.drupal.org/files/projects/cvs_deploy-6.x-1.0.tar.gz">http://ftp.drupal.org/files/projects/cvs_deploy-6.x-1.0.tar.gz</a><br /><a href="http://ftp.drupal.org/files/projects/drush-6.x-1.2.tar.gz" title="http://ftp.drupal.org/files/projects/drush-6.x-1.2.tar.gz">http://ftp.drupal.org/files/projects/drush-6.x-1.2.tar.gz</a><br /><a href="http://ftp.drupal.org/files/projects/provision-6.x-0.1.tar.gz" title="http://ftp.drupal.org/files/projects/provision-6.x-0.1.tar.gz">http://ftp.drupal.org/files/projects/provision-6.x-0.1.tar.gz</a><br />EOF<br />modules_dir="profiles/hostslave/modules/"<br />mkdir -p $modules_dir<br />for url in `cat urls`; <br />do<br />wget $url<br />file=`echo $url | sed -e 's/http\:\/\/ftp\.drupal\.org\/files\/projects\///g'`<br />tar zxf $file<br />module=`echo $file&nbsp; | sed -e 's/-.*$//g'`<br />mv $module $modules_dir<br />rm $file ;<br />done ;</p></blockquote>
+<p>Then, the time had come for the database stuff...</p>
+<blockquote><p>mysqladmin -u root -p drop hostslave<br />mysqladmin -u root -p create hostslave</p></blockquote>
+<p>The files directory for the drupal installation</p>
+<blockquote><p>mkdir -p sites/default/files<br />chown www-data sites/default/files/</p></blockquote>
+<p>Create the settings.php.</p>
+<blockquote><p>cd sites/default/<br />cp default.settings.php settings.php</p></blockquote>
+<p>Provide the necessary credentials...</p>
+<p><strong>settings.php</strong><br />
+<blockquote>$db_url = 'mysql://root:secret_passwd@localhost/hostslave';</blockquote></p>
+<p>Then, proceed with the installation....</p>
+<p></p>
+<blockquote><p>http://hostslave/install.php</p></blockquote>
+<p>Selecting the HostSlave profile...</p>
+<p>If it hangs on at this point, try refreshing the page.</p>
+<p>If you had any of this warnings, proceed without giving them any importance, they're just warning messages (thks to mrthumpz).</p>
+<blockquote><p>Configure your platform&nbsp; <br />•&nbsp; notice: Use of undefined constant PROVISION_SUCCESS - assumed 'PROVISION_SUCCESS' in /var/www/hostslave/drupal/profiles/hostslave/modules/provision/provision.inc on line 182.<br />• notice: Undefined index: PWD in /var/www/hostslave/drupal/profiles/hostslave/modules/provision/provision.module on line 104.<br />• notice: Use of undefined constant PROVISION_BASE_URL - assumed 'PROVISION_BASE_URL' in /var/www/hostslave/drupal/profiles/hostslave/modules/provision/provision.module on line 234.<br />• notice: Undefined variable: return in /var/www/hostslave/drupal/profiles/hostslave/modules/provision/provision.module on line 241.</p></blockquote>
+<p>If this message appears, the same as we did with the hostmaster installation. Forget about using the root account, use instead the hostmaster one.</p>
+<blockquote><p>If you are using this platform as the back end to an existing Hostmaster installation: <br />you need to run this command before adding the platform node to your hosting site, to allow the hosting site to communicate with this platform.</p>
+<p>Ensure that you are logged into the shell as root, and then execute the following commands :</p>
+<p>cd /var/www/hostslave/drupal <br />profiles/hostslave/modules/drush/drush.php provision setup</p></blockquote>
+<p>So I did:</p>
+<blockquote><p>cd /var/www/hostslave/drupal <br />chown -R hostmaster /var/www/hostslave/drupal <br />chgrp -R www-data /var/www/hostslave/drupal/sites/default/files<br />su - hostmaster<br />cd /var/www/hostslave/drupal <br />profiles/hostslave/modules/drush/drush.php provision setup</p></blockquote>
+<p>Et voila!</p>
+<p>To test everything went ok, we can create a new plattform on the hostmaster site. In our example:</p>
+<p>
+<blockquote>Submit Platform<br />Name: drupal6<br />Publish path: /var/www/hostslave/drupal/</blockquote></p>
+<p>Force the processing of tasks....</p>
+<blockquote><p>su&nbsp; - hostmaster<br />cd /var/hostmaster/drupal-5<br />./drush.php hosting tasks</p></blockquote>
+<p>it worked!</p>
+<p>Then we can deploy new drupal 6 sites using the hostslave plattform from the hostmaster site.</p>
+<blockquote><p>node/add/site<br />Domain name: d61.localhost<br />plattform: drupal6</p></blockquote>
+<p>For this last example, you should had modified:<br /><strong>/etc/hosts</strong><br />
+<blockquote>127.0.0.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; localhost localhost.localdomain aegir hostslave <strong>d61.localhost </strong></blockquote></p>
+<p>No configuration was needed for the apache server since that's had been taken care of by the hostmaster web server provision module. Work is underway to support dns server provision also.</p>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                </div>
+
+      </div>
+
+</div> <!-- node-story -->
+<div class="box">
+
+  <h2>Responder</h2>
+
+  <div class="content"><form action="http://www.rxtx.com.ar/comment/reply/61"  accept-charset="UTF-8" method="post" id="comment-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Su nombre: <span class="form-required" title="Este campo es obligatorio.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="30" value="Anonymous" class="form-text required" />
+</div>
+<div class="form-item" id="edit-mail-wrapper">
+ <label for="edit-mail">E-mail: <span class="form-required" title="Este campo es obligatorio.">*</span></label>
+ <input type="text" maxlength="64" name="mail" id="edit-mail" size="30" value="" class="form-text required" />
+ <div class="description">El contenido de este campo se mantiene privado y no se mostrará públicamente.</div>
+</div>
+<div class="form-item" id="edit-homepage-wrapper">
+ <label for="edit-homepage">Página principal: </label>
+ <input type="text" maxlength="255" name="homepage" id="edit-homepage" size="30" value="" class="form-text" />
+</div>
+<div class="form-item" id="edit-comment-wrapper">
+ <label for="edit-comment">Comentario: <span class="form-required" title="Este campo es obligatorio.">*</span></label>
+ <textarea cols="60" rows="15" name="comment" id="edit-comment"  class="form-textarea resizable required"></textarea>
+</div>
+<ul class="tips"><li>Las direcciones de las páginas web y las de correo se convierten en enlaces automáticamente.</li><li>Etiquetas HTML permitidas: &lt;a&gt; &lt;em&gt; &lt;strong&gt; &lt;cite&gt; &lt;code&gt; &lt;ul&gt; &lt;ol&gt; &lt;li&gt; &lt;dl&gt; &lt;dt&gt; &lt;dd&gt;</li><li>Saltos automáticos de líneas y de párrafos.</li></ul><p><a href="../../../filter/tips/">Más información sobre opciones de formato</a></p><input type="hidden" name="form_build_id" id="form-7da562fcbf18e1aa389f3d334d4f5b01" value="form-7da562fcbf18e1aa389f3d334d4f5b01"  />
+<input type="hidden" name="form_id" id="edit-comment-form" value="comment_form"  />
+<input type="submit" name="op" id="edit-submit" value="Guardar"  class="form-submit" />
+<input type="submit" name="op" id="edit-preview" value="Previsualizar"  class="form-submit" />
+
+</div></form>
+</div>
+</div>
+        </div>
+      </div> <!-- /#center -->
+            <div class="clear">&nbsp;</div>
+            <div class="rule">&nbsp;</div>
+      <div id="footer">
+              </div>
+    </div> <!-- /container -->
+  <script type="text/javascript" src="../../../sites/all/modules/google_analytics/googleanalytics/index.js?1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-5155520-2");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    var names = [ "http://www.rxtx.com.ar/sites/rxtx.com.ar/themes/nitobe/headers/Wet_Hibiscus_Flower_Macro.jpg", "../../../sites/rxtx.com.ar/themes/nitobe/headers/Martian_Surface/index.jpg", "../../../sites/rxtx.com.ar/themes/nitobe/headers/Earth_from_ISS/index.jpg", "../../../sites/rxtx.com.ar/themes/nitobe/headers/Flower_Pattern/index.jpg", "../../../sites/rxtx.com.ar/themes/nitobe/headers/Leek_Bloom/index.jpg", "../../../sites/rxtx.com.ar/themes/nitobe/headers/Contemplation/index.jpg", "../../../sites/rxtx.com.ar/themes/nitobe/headers/Onions_and_Scale/index.jpg", "../../../sites/rxtx.com.ar/themes/nitobe/headers/Tennyson/index.jpg", "../../../sites/rxtx.com.ar/themes/nitobe/headers/Blue_Water_Drops/index.jpg", "../../../sites/rxtx.com.ar/themes/nitobe/headers/La_Rambla/index.jpg", "../../../sites/rxtx.com.ar/themes/nitobe/headers/Rolling_Hills/index.jpg", "http://www.rxtx.com.ar/sites/rxtx.com.ar/themes/nitobe/headers/Metal_Wall.jpg" ];
+    $('#navphoto').css('background-image', 'url(' + names[Math.floor(Math.random() * names.length)] + ')');
+  });
+</script>  </body>
+
+<!--  --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- / -->
+</html>

@@ -1,0 +1,340 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" dir="ltr">
+  
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+<head>
+    <title>RxTx</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../blogapi/rsd/" />
+
+<link rel="alternate" type="application/rss+xml" title="RxTx RSS" href="../rss/index.xml" />
+
+<link rel="shortcut icon" href="../sites/rxtx.com.ar/themes/nitobe/favicon/index.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/user/user/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/rxtx.com.ar/themes/nitobe/reset/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/rxtx.com.ar/themes/nitobe/text/index.css?1" />
+<link type="text/css" rel="stylesheet" media="screen" href="../sites/rxtx.com.ar/themes/nitobe/layout/index.css?1" />
+<link type="text/css" rel="stylesheet" media="screen" href="../sites/rxtx.com.ar/themes/nitobe/style/index.css?1" />
+<link type="text/css" rel="stylesheet" media="screen" href="../sites/rxtx.com.ar/themes/nitobe/core/index.css?1" />
+<link type="text/css" rel="stylesheet" media="print" href="../sites/rxtx.com.ar/themes/nitobe/print/index.css?1" />
+    <script type="text/javascript" src="../misc/jquery/index.js?1"></script>
+<script type="text/javascript" src="../misc/drupal/index.js?1"></script>
+<script type="text/javascript" src="../sites/rxtx.com.ar/themes/nitobe/script/index.js?1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" } });
+//--><!]]>
+</script>
+    <!--[if IE]>
+      <link type="text/css" rel="stylesheet" media="screen" href="/sites/rxtx.com.ar/themes/nitobe/fix-ie.css" />
+    <![endif]-->
+  </head>
+  <body class="front not-logged-in page-node no-sidebars">
+    <div id="page" class="container_16">
+            <div id="header">
+        <div id="headerTitle" class="grid_12">
+          <h1><a href="/" title=""></a></h1>
+        </div>
+        <div id="search-top" class="grid_4"><form action="http://www.rxtx.com.ar/node?page=3"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Introduzca los términos que quiera buscar." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Buscar"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-f2eb6f22b2184bfdaf8320694bc3e7e9" value="form-f2eb6f22b2184bfdaf8320694bc3e7e9"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div>
+                <div class="clear"></div>
+                <div id="headerLinks" class="grid_16">
+                                                      <div class="clear"></div>
+                              </div>
+        <div class="clear"></div>
+        <div id="navphoto" class="grid_16"></div>
+      </div><!-- /#header -->
+      <div class="rule-top">&nbsp;</div>
+
+      <div id="center">
+                                                <div class="clear-block">
+          <div id="node-44" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/debugging-django-links/" rel="bookmark" title="Permanent Link to debugging django links">debugging django links</a></h2>
+    <div class="timestamp grid_4 omega">20 Nov 2008</div>
+  </div>
+  <div class="content">
+        <ul>
+<li><a href="http://ericholscher.com/blog/2008/aug/31/using-pdb-python-debugger-django-debugging-series-/">using pdb</a> (screencast included)</li>
+<li><a href="http://simonwillison.net/2008/May/22/debugging/">posts de simonwillison</a></li>
+<li><a href="http://blog.webfaction.com/tips-to-keep-your-django-mod-python-memory-usage-down">Tips to keep your Django/mod_python memory usage down</a> (not really debbuging)</li>
+<li><a href="http://eric.themoritzfamily.com/2008/11/17/pdb-and-djangotestclient/">PDB and django.test.client</a></li>
+<li><a><br />
+</a></li></ul>            <span class="readmore"><a href="../content/debugging-django-links/" title="Continue reading debugging django links.">Continue reading...</a></span>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../content/debugging-django-links/#comments" title="Read comments or comment on debugging django links">2 Comments</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-43" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/enlaces-de-configuracion-de-servidores/" rel="bookmark" title="Permanent Link to enlaces de configuracion de servidores">enlaces de configuracion de servidores</a></h2>
+    <div class="timestamp grid_4 omega">20 Nov 2008</div>
+  </div>
+  <div class="content">
+        <ul>
+<li><a href="http://www.linuxmail.info/mailscanner-postfix-clamav-spamassassin-howto-centos-5/">Integración de MailScanner con Postfix, sumandole ClamAV y SpamAssassin sobre RHEL/CentOS 5</a></li>
+<li><a href="http://www.linuxmail.info/postfix-active-directory-ldap-lookup-howto/">Como utilizar los <strong>Distribution groups</strong> del <strong>Active Directory</strong> para listas de correo sobre Postfix</a></li>
+<li><a href="http://www.linuxmail.info/active-directory-integration-samba-centos-5/">Integrando el Active Directy con Samba sobre RHEL/CentOS 5</a></li>
+</ul>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../comment/reply/43/#comment-form" title="Comment on enlaces de configuracion de servidores">Add a Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-42" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../los-distintos-tipos-de-raid/" rel="bookmark" title="Permanent Link to los distintos tipos de raid">los distintos tipos de raid</a></h2>
+    <div class="timestamp grid_4 omega">19 Nov 2008</div>
+  </div>
+  <div class="content">
+        <p><img style="max-width: 800px;" src="../sites/rxtx.com.ar/files/raid/index.jpg" /></p>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../comment/reply/42/#comment-form" title="Comment on los distintos tipos de raid">Add a Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-40" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/variables-de-samba/" rel="bookmark" title="Permanent Link to variables de samba">variables de samba</a></h2>
+    <div class="timestamp grid_4 omega">17 Nov 2008</div>
+  </div>
+  <div class="content">
+        <p>Client variables<br />
+<br />
+Samba</p>
+<blockquote><p>
+----------------<br />
+%a	Client's architecture (Samba, WinNT, WfWg, Win95, or UNKNOWN)<br />
+%I	Client's IP address<br />
+%m	Client's NetBIOS name<br />
+%M	Client's DNS name</p>
+<p>User variables<br />
+--------------<br />
+%g	Primary group of %u<br />
+%G	Primary group of %U<br />
+%H	Home directory of %u<br />
+%u	Current Unix username<br />
+%U	Requested client username (not always used by Samba)</p>
+<p>Share variables<br />
+---------------<br />
+%p	Automouter's path to the share's root directory, if different from %P<br />
+%P	Current share's root directory<br />
+%S	Current share's name</p>
+<p>Server variables</p>
+</blockquote>            <span class="readmore"><a href="../content/variables-de-samba/" title="Continue reading variables de samba.">Continue reading...</a></span>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../comment/reply/40/#comment-form" title="Comment on variables de samba">Add a Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-39" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/sincronizando-evolution-con-un-movil/" rel="bookmark" title="Permanent Link to sincronizando evolution con un movil">sincronizando evolution con un movil</a></h2>
+    <div class="timestamp grid_4 omega">16 Nov 2008</div>
+  </div>
+  <div class="content">
+        <p>Primero el multisync hacia un dump que lo resolví borrando el fichero ~/.multisync/&lt;number&gt;/syncpair del directorio donde me reportaba que no encontraba el localsettings.</p>
+<p>Luego logre sincronizar la primera vez, pero me empezo a dar este error y no permitirme sincronizar más:</p>
+<p>"Failed to get first plugin changes: Unknown error" (first is evolution).<br /><a href="https://bugs.launchpad.net/ubuntu/+source/multisync/+bug/44374" title="https://bugs.launchpad.net/ubuntu/+source/multisync/+bug/44374">https://bugs.launchpad.net/ubuntu/+source/multisync/+bug/44374</a></p>
+<p>probe los workarounds que se ofrecian ahi sin exito alguno.<br />Lo dejo para otra ocasión.</p>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../comment/reply/39/#comment-form" title="Comment on sincronizando evolution con un movil">Add a Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-38" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/lector-de-huellas-sms-thomson-en-dell-vostro-1310-sobre-ubuntu/" rel="bookmark" title="Permanent Link to lector de huellas sms thomson en dell vostro 1310 sobre ubuntu">lector de huellas sms thomson en dell vostro 1310 sobre ubuntu</a></h2>
+    <div class="timestamp grid_4 omega">16 Nov 2008</div>
+  </div>
+  <div class="content">
+        <p>Lo pude poner a funcionar sin problemas guiandome por <a href="http://www.debian-mx.com/2008/07/how-to-lector-de-huella/">este articulo</a>.</p>
+<p>Las diferencias (en ubuntu 8.04) fueron que:</p>
+            <span class="readmore"><a href="../content/lector-de-huellas-sms-thomson-en-dell-vostro-1310-sobre-ubuntu/" title="Continue reading lector de huellas sms thomson en dell vostro 1310 sobre ubuntu.">Continue reading...</a></span>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../comment/reply/38/#comment-form" title="Comment on lector de huellas sms thomson en dell vostro 1310 sobre ubuntu">Add a Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-37" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/bluetooth-sobre-ubuntu-en-una-dell-vostro-1310/" rel="bookmark" title="Permanent Link to bluetooth sobre ubuntu en una dell vostro 1310">bluetooth sobre ubuntu en una dell vostro 1310</a></h2>
+    <div class="timestamp grid_4 omega">16 Nov 2008</div>
+  </div>
+  <div class="content">
+        <h4>Udev rule for full access to the USB device</h4>
+<p>
+Display information about the plugged in usb devices:<br />
+</p>
+<p>osvaldo@vostro:~$ lsusb<br />
+Bus 004 Device 004: ID 0fce:d042 Sony Ericsson Mobile Communications AB </p>
+<p>Create a custom udev rule using the ID information (idVendor:idProduct) and your username (OWNER="USERNAME")</p>
+<p>$ sudo nano /etc/udev/rules.d/40-custom.rules</p>
+<p>SUBSYSTEMS=="usb", ATTRS{idVendor}=="0fce", ATTRS{idProduct}=="d042", MODE="0660", OWNER="osvaldo"<br />
+Reload the udev rules:</p>
+<p>$ sudo udevcontrol reload_rules</p>
+            <span class="readmore"><a href="../content/bluetooth-sobre-ubuntu-en-una-dell-vostro-1310/" title="Continue reading bluetooth sobre ubuntu en una dell vostro 1310.">Continue reading...</a></span>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../comment/reply/37/#comment-form" title="Comment on bluetooth sobre ubuntu en una dell vostro 1310">Add a Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-36" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/myphoneexplorer-en-ubuntu/" rel="bookmark" title="Permanent Link to myphoneexplorer en ubuntu">myphoneexplorer en ubuntu</a></h2>
+    <div class="timestamp grid_4 omega">16 Nov 2008</div>
+  </div>
+  <div class="content">
+        <p>myphoneeplorer<br /><a href="http://www.fjsoft.at/en/home.php" title="http://www.fjsoft.at/en/home.php">http://www.fjsoft.at/en/home.php</a></p>
+<p>en el foro en ingles:<br /><a href="http://www.fjsoft.at/forum/viewforum.php?f=6" title="http://www.fjsoft.at/forum/viewforum.php?f=6">http://www.fjsoft.at/forum/viewforum.php?f=6</a></p>
+<p>hay un enlace por el cual lo eche a andar:<br /><a href="http://www.fjsoft.at/forum/viewtopic.php?t=2838" title="http://www.fjsoft.at/forum/viewtopic.php?t=2838">http://www.fjsoft.at/forum/viewtopic.php?t=2838</a></p>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../comment/reply/36/#comment-form" title="Comment on myphoneexplorer en ubuntu">Add a Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-35" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/como-extraer-ficheros-zip-multi-part-en-linux/" rel="bookmark" title="Permanent Link to como extraer ficheros zip multi-part en linux">como extraer ficheros zip multi-part en linux</a></h2>
+    <div class="timestamp grid_4 omega">16 Nov 2008</div>
+  </div>
+  <div class="content">
+        <p>Cuando se compacta un fichero muy grande es muy común crear varios ficheros compactados. Para la extensión rar basta con hacer un</p>
+<blockquote><p>unrar x rarfile.rar</p></blockquote>
+<p>Pero con los ficheros .zip no es tan sencillo, cuando intentamos descompactarlo nos podemos encontrar con esto:</p>
+<blockquote><p>unzip zipfilename.zip<br />.....<br />warning [zipfilename.zip]:&nbsp; zipfile claims to be last disk of a multi-part archive;<br />&nbsp; attempting to process anyway, assuming all parts have been concatenated</p>
+</blockquote>            <span class="readmore"><a href="../content/como-extraer-ficheros-zip-multi-part-en-linux/" title="Continue reading como extraer ficheros zip multi-part en linux.">Continue reading...</a></span>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../comment/reply/35/#comment-form" title="Comment on como extraer ficheros zip multi-part en linux">Add a Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div id="node-34" class="node  node-story teaser">
+
+  <div class="headline grid_12 alpha">
+    <h2 class="grid_8 alpha"><a href="../content/problemas-con-yum-updatesd-en-centos-5/" rel="bookmark" title="Permanent Link to problemas con yum-updatesd en centos 5">problemas con yum-updatesd en centos 5</a></h2>
+    <div class="timestamp grid_4 omega">14 Nov 2008</div>
+  </div>
+  <div class="content">
+        <p>Existen reportes confirmados de que el yum-updatesd que viene con CentOS 5 presenta problemas de memory leaking (bug reportado <a href="http://www.centos.org/modules/newbb/viewtopic.php?forum=37&amp;post_id=27600&amp;topic_id=8688">aquí</a>). Se recomienda entonces desactivar este servicio (<a href="http://rm-rf.es/desactivar-yum-updatesd/">instrucciones</a>).</p>
+            <span class="readmore"><a href="../content/problemas-con-yum-updatesd-en-centos-5/" title="Continue reading problemas con yum-updatesd en centos 5.">Continue reading...</a></span>
+      </div>
+
+  <div class="clear-block">
+    <div class="meta">
+                                  <a href="../comment/reply/34/#comment-form" title="Comment on problemas con yum-updatesd en centos 5">Add a Comment</a>                    </div>
+
+          <div class="links"></div>
+      </div>
+
+</div> <!-- node-story -->
+<div class="item-list"><ul class="pager"><li class="pager-first first"><a href="index.html" title="Ir a la primera página" class="active">« primera</a></li>
+<li class="pager-previous"><a href="index2.html?page=2" title="Ir a página anterior" class="active">‹ anterior</a></li>
+<li class="pager-item"><a href="index.html" title="Ir a la página 1" class="active">1</a></li>
+<li class="pager-item"><a href="index1.html?page=1" title="Ir a la página 2" class="active">2</a></li>
+<li class="pager-item"><a href="index2.html?page=2" title="Ir a la página 3" class="active">3</a></li>
+<li class="pager-current">4</li>
+<li class="pager-item"><a href="index4.html?page=4" title="Ir a la página 5" class="active">5</a></li>
+<li class="pager-item"><a href="index5.html?page=5" title="Ir a la página 6" class="active">6</a></li>
+<li class="pager-item"><a href="index6.html?page=6" title="Ir a la página 7" class="active">7</a></li>
+<li class="pager-item"><a href="index7.html?page=7" title="Ir a la página 8" class="active">8</a></li>
+<li class="pager-next"><a href="index4.html?page=4" title="Ir a página siguiente" class="active">siguiente ›</a></li>
+<li class="pager-last last"><a href="index7.html?page=7" title="Ir a la última página" class="active">última »</a></li>
+</ul></div>        </div>
+      </div> <!-- /#center -->
+            <div class="clear">&nbsp;</div>
+            <div class="rule">&nbsp;</div>
+      <div id="footer">
+              </div>
+    </div> <!-- /container -->
+  <script type="text/javascript" src="../sites/all/modules/google_analytics/googleanalytics/index.js?1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-5155520-2");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    var names = [ "http://www.rxtx.com.ar/sites/rxtx.com.ar/themes/nitobe/headers/Wet_Hibiscus_Flower_Macro.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Martian_Surface/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Earth_from_ISS/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Flower_Pattern/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Leek_Bloom/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Contemplation/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Onions_and_Scale/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Tennyson/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Blue_Water_Drops/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/La_Rambla/index.jpg", "../sites/rxtx.com.ar/themes/nitobe/headers/Rolling_Hills/index.jpg", "http://www.rxtx.com.ar/sites/rxtx.com.ar/themes/nitobe/headers/Metal_Wall.jpg" ];
+    $('#navphoto').css('background-image', 'url(' + names[Math.floor(Math.random() * names.length)] + ')');
+  });
+</script>  </body>
+
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+</html>

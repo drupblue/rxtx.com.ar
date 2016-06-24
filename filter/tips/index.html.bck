@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" dir="ltr">
+  
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+<head>
+    <title>Compose tips | RxTx</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../../sites/rxtx.com.ar/themes/nitobe/favicon/index.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="../../modules/node/node/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/system/defaults/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/system/system/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/system/system-menus/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/user/user/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/rxtx.com.ar/themes/nitobe/reset/index.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/rxtx.com.ar/themes/nitobe/text/index.css?1" />
+<link type="text/css" rel="stylesheet" media="screen" href="../../sites/rxtx.com.ar/themes/nitobe/layout/index.css?1" />
+<link type="text/css" rel="stylesheet" media="screen" href="../../sites/rxtx.com.ar/themes/nitobe/style/index.css?1" />
+<link type="text/css" rel="stylesheet" media="screen" href="../../sites/rxtx.com.ar/themes/nitobe/core/index.css?1" />
+<link type="text/css" rel="stylesheet" media="print" href="../../sites/rxtx.com.ar/themes/nitobe/print/index.css?1" />
+    <script type="text/javascript" src="../../misc/jquery/index.js?1"></script>
+<script type="text/javascript" src="../../misc/drupal/index.js?1"></script>
+<script type="text/javascript" src="../../misc/tableheader/index.js?1"></script>
+<script type="text/javascript" src="../../sites/rxtx.com.ar/themes/nitobe/script/index.js?1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" } });
+//--><!]]>
+</script>
+    <!--[if IE]>
+      <link type="text/css" rel="stylesheet" media="screen" href="/sites/rxtx.com.ar/themes/nitobe/fix-ie.css" />
+    <![endif]-->
+  </head>
+  <body class="not-front not-logged-in page-filter no-sidebars">
+    <div id="page" class="container_16">
+            <div id="header">
+        <div id="headerTitle" class="grid_12">
+          <h1><a href="..//" title=""></a></h1>
+        </div>
+        <div id="search-top" class="grid_4"><form action="http://www.rxtx.com.ar/filter/tips"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Introduzca los términos que quiera buscar." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Buscar"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-bba9bf22c14dce57bf33b327cdba5789" value="form-bba9bf22c14dce57bf33b327cdba5789"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div>
+                <div class="clear"></div>
+                <div id="headerLinks" class="grid_16">
+                                                      <div class="clear"></div>
+                              </div>
+        <div class="clear"></div>
+        <div id="navphoto" class="grid_16"></div>
+      </div><!-- /#header -->
+      <div class="rule-top">&nbsp;</div>
+
+      <div id="center">
+        <div class="breadcrumb"><a href="..//">Inicio</a></div>                  <div class="headline grid_12 alpha">
+            <h2 class="grid_8 alpha">Compose tips</h2>                      </div>
+          <div class="clear"></div>
+                                        <div class="clear-block">
+          <ul class="tips"><li id="filter-filter-2">Las direcciones de las páginas web y las de correo se convierten en enlaces automáticamente.</li><li id="filter-filter-0"><p>Etiquetas HTML permitidas: &lt;a&gt; &lt;em&gt; &lt;strong&gt; &lt;cite&gt; &lt;code&gt; &lt;ul&gt; &lt;ol&gt; &lt;li&gt; &lt;dl&gt; &lt;dt&gt; &lt;dd&gt;</p>
+<p>Este sitio admite contenido HTML. Aprender todo el HTML es una tarea ardua e intimidante, pero aprender unas cuantas «etiquetas» HTML básicas es muy sencillo. Esta tabla proporciona ejemplos para cada etiqueta que está activa en el sitio.</p>
+<p>Para más información, puede ver las <a href="http://www.w3.org/TR/html/">especificaciones HTML</a> de W3C o usar su motor de búsqueda favorito para buscar otros sitios que traten sobre HTML.</p><table class="sticky-enabled">
+ <thead><tr><th>Descripción de la etiqueta</th><th>Teclea</th><th>Obtiene</th> </tr></thead>
+<tbody>
+ <tr class="odd"><td class="description">Las anclas se usan para hacer enlaces a otras páginas.</td><td class="type"><code>&lt;a href=&quot;http://www.rxtx.com.ar&quot;&gt;RxTx&lt;/a&gt;</code></td><td class="get"><a href="..//">RxTx</a></td> </tr>
+ <tr class="even"><td class="description">Enfatizado</td><td class="type"><code>&lt;em&gt;Enfatizado&lt;/em&gt;</code></td><td class="get"><em>Enfatizado</em></td> </tr>
+ <tr class="odd"><td class="description">Fuerte</td><td class="type"><code>&lt;strong&gt;Fuerte&lt;/strong&gt;</code></td><td class="get"><strong>Fuerte</strong></td> </tr>
+ <tr class="even"><td class="description">Citado</td><td class="type"><code>&lt;cite&gt;Citado&lt;/cite&gt;</code></td><td class="get"><cite>Citado</cite></td> </tr>
+ <tr class="odd"><td class="description">Texto codificado que se usa para mostrar código fuente de programación</td><td class="type"><code>&lt;code&gt;Codificado&lt;/code&gt;</code></td><td class="get"><code>Codificado</code></td> </tr>
+ <tr class="even"><td class="description">Lista desordenada: use &lt;li&gt; para comenzar cada elemento de la lista</td><td class="type"><code>&lt;ul&gt; &lt;li&gt;Primer elemento&lt;/li&gt; &lt;li&gt;Segundo elemento&lt;/li&gt; &lt;/ul&gt;</code></td><td class="get"><ul> <li>Primer elemento</li> <li>Segundo elemento</li> </ul></td> </tr>
+ <tr class="odd"><td class="description">Lista ordenada: utilice &lt;li&gt; para comenzar cada elemento de la lista</td><td class="type"><code>&lt;ol&gt; &lt;li&gt;Primer elemento&lt;/li&gt; &lt;li&gt;Segundo elemento&lt;/li&gt; &lt;/ol&gt;</code></td><td class="get"><ol> <li>Primer elemento</li> <li>Segundo elemento</li> </ol></td> </tr>
+ <tr class="even"><td class="description">Las listas de definiciones son similares a otras listas HTML. &lt;dl&gt; da comienzo a la lista de definiciones, &lt;dt&gt; da comienzo a cada término definido y &lt;dd&gt; da comienzo a la descripción de la definición.</td><td class="type"><code>&lt;dl&gt; &lt;dt&gt;Primer término&lt;/dt&gt; &lt;dd&gt;Primera definición&lt;/dd&gt; &lt;dt&gt;Segundo término&lt;/dt&gt; &lt;dd&gt;Segunda definición&lt;/dd&gt; &lt;/dl&gt;</code></td><td class="get"><dl> <dt>Primer término</dt> <dd>Primera definición</dd> <dt>Segundo término</dt> <dd>Segunda definición</dd> </dl></td> </tr>
+</tbody>
+</table>
+
+<p>Los caracteres menos habituales se pueden introducir directamente sin mayor complicación.</p>
+<p>Si tiene problemas, intente usar entidades de caracteres HTML. Un ejemplo de esto es &amp;amp;, que se usa para conseguir el carácter &amp;. Tiene una lista completa de las entidades HTML en la página <a href="http://www.w3.org/TR/html4/sgml/entities.html">de entidades</a>. Entre los caracteres disponibles están:</p><table class="sticky-enabled">
+ <thead><tr><th>Descripción del carácter</th><th>Teclea</th><th>Obtiene</th> </tr></thead>
+<tbody>
+ <tr class="odd"><td class="description">Ampersand</td><td class="type"><code>&amp;amp;</code></td><td class="get">&amp;</td> </tr>
+ <tr class="even"><td class="description">Mayor que</td><td class="type"><code>&amp;gt;</code></td><td class="get">&gt;</td> </tr>
+ <tr class="odd"><td class="description">Menor que</td><td class="type"><code>&amp;lt;</code></td><td class="get">&lt;</td> </tr>
+ <tr class="even"><td class="description">Comillas</td><td class="type"><code>&amp;quot;</code></td><td class="get">&quot;</td> </tr>
+</tbody>
+</table>
+</li><li id="filter-filter-1">Las líneas y los párrafos se reconocen automáticamente. Las etiquetas &lt;br /&gt; para el salto de línea y &lt;p&gt; y &lt;/p&gt; para abrir y cerrar el párrafo se insertan automáticamente. Si los párrafos no se reconocen, simplemente añada unas cuantas líneas vacías.</li></ul>        </div>
+      </div> <!-- /#center -->
+            <div class="clear">&nbsp;</div>
+            <div class="rule">&nbsp;</div>
+      <div id="footer">
+              </div>
+    </div> <!-- /container -->
+  <script type="text/javascript" src="../../sites/all/modules/google_analytics/googleanalytics/index.js?1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-5155520-2");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    var names = [ "http://www.rxtx.com.ar/sites/rxtx.com.ar/themes/nitobe/headers/Wet_Hibiscus_Flower_Macro.jpg", "../../sites/rxtx.com.ar/themes/nitobe/headers/Martian_Surface/index.jpg", "../../sites/rxtx.com.ar/themes/nitobe/headers/Earth_from_ISS/index.jpg", "../../sites/rxtx.com.ar/themes/nitobe/headers/Flower_Pattern/index.jpg", "../../sites/rxtx.com.ar/themes/nitobe/headers/Leek_Bloom/index.jpg", "../../sites/rxtx.com.ar/themes/nitobe/headers/Contemplation/index.jpg", "../../sites/rxtx.com.ar/themes/nitobe/headers/Onions_and_Scale/index.jpg", "../../sites/rxtx.com.ar/themes/nitobe/headers/Tennyson/index.jpg", "../../sites/rxtx.com.ar/themes/nitobe/headers/Blue_Water_Drops/index.jpg", "../../sites/rxtx.com.ar/themes/nitobe/headers/La_Rambla/index.jpg", "../../sites/rxtx.com.ar/themes/nitobe/headers/Rolling_Hills/index.jpg", "http://www.rxtx.com.ar/sites/rxtx.com.ar/themes/nitobe/headers/Metal_Wall.jpg" ];
+    $('#navphoto').css('background-image', 'url(' + names[Math.floor(Math.random() * names.length)] + ')');
+  });
+</script>  </body>
+
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+</html>
